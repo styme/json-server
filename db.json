@@ -1,0 +1,10 @@
+{
+  "restaurant": [
+    {
+      "id": 0,
+      "name": "Restaurante do Japonês",
+      "address": "Rua do japonês, 1234",
+      "category" :"Comida Japonesa"
+    }
+  ]
+}
