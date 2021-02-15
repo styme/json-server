@@ -1,10 +1,64 @@
 {
   "restaurant": [
     {
-      "id": 0,
+      "id": 1,
       "name": "Restaurante do Japonês",
-      "address": "Rua do japonês, 1234",
-      "category" :"Comida Japonesa"
+      "address": "Rua do japonês, 123",
+      "category": "Comida Japonesa"
+    },
+    {
+      "id": 2,
+      "name": "Restaurante do Árabe",
+      "address": "Rua do Árabe, 456",
+      "category": "Comida Árabe"
+    },
+    {
+      "id": 3,
+      "name": "Restaurante do Havaino",
+      "address": "Rua do Havaino, 789",
+      "category": "Comida Havaina"
+    }
+  ],
+  "menu": [
+    {
+      "id": 1,
+      "restaurantId": 1,
+      "description": "Guioza",
+      "price": "10",
+      "imageUri": "",
+      "category": ""
+    },
+    {
+      "id": 2,
+      "restaurantId": 1,
+      "description": "Temaki",
+      "price": "15",
+      "imageUri": "",
+      "category": ""
+    },
+    {
+      "id": 3,
+      "restaurantId": 1,
+      "description": "Sunomono",
+      "price": "5",
+      "imageUri": "",
+      "category": ""
+    },
+    {
+      "id": 4,
+      "restaurantId": 1,
+      "description": "Missoshiru",
+      "price": "",
+      "imageUri": "8",
+      "category": ""
+    },
+    {
+      "id": 5,
+      "restaurantId": 1,
+      "description": "Huramaki",
+      "price": "12",
+      "imageUri": "",
+      "category": ""
     }
   ]
 }
