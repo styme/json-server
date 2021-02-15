@@ -46,7 +46,7 @@
       "id": 4,
       "restaurantId": 1,
       "description": "Taça de Sorvete",
-      "price": 5,
+      "price": 15,
       "imageUri": "https://st2.depositphotos.com/1692343/7372/i/950/depositphotos_73720041-stock-photo-homemade-organic-vanilla-ice-cream.jpg",
       "category": "Sobremesas"
     },
@@ -54,7 +54,7 @@
       "id": 5,
       "restaurantId": 2,
       "description": "Poke da Casa",
-      "price": 10,
+      "price": 20,
       "imageUri": "https://st3.depositphotos.com/1373322/16509/i/1600/depositphotos_165098996-stock-photo-raw-organic-ahi-tuna-poke.jpg",
       "category": "Pokes"
     },
@@ -62,7 +62,7 @@
       "id": 6,
       "restaurantId": 2,
       "description": "Poke Especial",
-      "price": 15,
+      "price": 25,
       "imageUri": "https://st3.depositphotos.com/1003597/31732/i/1600/depositphotos_317323671-stock-photo-top-view-at-mediterranean-roasted.jpg",
       "category": "Pokes"
     },
@@ -70,7 +70,7 @@
       "id": 7,
       "restaurantId": 2,
       "description": "Monte seu Poke",
-      "price": 5,
+      "price": 30,
       "imageUri": "https://st3.depositphotos.com/2075507/17794/i/1600/depositphotos_177949424-stock-photo-melon-feta-mint-healthy-salad.jpg",
       "category": "Pokes"
     },
@@ -78,7 +78,7 @@
       "id": 8,
       "restaurantId": 2,
       "description": "Taça de Sorvete",
-      "price": 5,
+      "price": 15,
       "imageUri": "hhttps://st2.depositphotos.com/1027198/6723/i/950/depositphotos_67233699-stock-photo-chocolate-ice-cream-balls.jpg",
       "category": "Sobremesas"
     },
@@ -86,7 +86,7 @@
       "id": 9,
       "restaurantId": 2,
       "description": "Refrigerantes",
-      "price": 5,
+      "price": 8,
       "imageUri": "https://st.depositphotos.com/1670531/3942/i/950/depositphotos_39420667-stock-photo-coca-cola-soda-cans.jpg",
       "category": "Bebidas"
     },
@@ -94,7 +94,7 @@
       "id": 10,
       "restaurantId": 1,
       "description": "Refrigerantes",
-      "price": 5,
+      "price": 8,
       "imageUri": "https://st2.depositphotos.com/1024749/6005/i/950/depositphotos_60055815-stock-photo-aytos-bulgaria-december-11-2014.jpg",
       "category": "Bebidas"
     }
