@@ -4,13 +4,15 @@
       "id": 1,
       "name": "Restaurante do Japonês",
       "address": "Rua do japonês, 123",
-      "category": "Comida Japonesa"
+      "category": "Comida Japonesa",
+      "location":"São Paulo"
     },
     {
       "id": 2,
       "name": "Restaurante do Havaino",
       "address": "Rua do Havaino, 789",
-      "category": "Comida Havaina"
+      "category": "Comida Havaina",
+      "location":"Rio de Janeiro"
     }
   ],
   "menu": [
