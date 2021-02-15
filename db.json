@@ -8,12 +8,6 @@
     },
     {
       "id": 2,
-      "name": "Restaurante do Árabe",
-      "address": "Rua do Árabe, 456",
-      "category": "Comida Árabe"
-    },
-    {
-      "id": 3,
       "name": "Restaurante do Havaino",
       "address": "Rua do Havaino, 789",
       "category": "Comida Havaina"
@@ -24,41 +18,81 @@
       "id": 1,
       "restaurantId": 1,
       "description": "Guioza",
-      "price": "10",
-      "imageUri": "",
-      "category": ""
+      "price": 10,
+      "imageUri": "https://st4.depositphotos.com/4366637/22798/i/1600/depositphotos_227984618-stock-photo-gyoza-pasta-stuffing-beef-beef.jpg",
+      "category": "Pratos"
     },
     {
       "id": 2,
       "restaurantId": 1,
       "description": "Temaki",
-      "price": "15",
-      "imageUri": "",
-      "category": ""
+      "price": 15,
+      "imageUri": "https://st.depositphotos.com/2066681/3023/i/950/depositphotos_30238959-stock-photo-japanese-food-temaki.jpg",
+      "category": "Pratos"
     },
     {
       "id": 3,
       "restaurantId": 1,
       "description": "Sunomono",
-      "price": "5",
-      "imageUri": "",
-      "category": ""
+      "price": 5,
+      "imageUri": "https://st3.depositphotos.com/24203952/34703/i/1600/depositphotos_347037270-stock-photo-sunomono-salad-cucumber-wakame-seaweed.jpg",
+      "category": "Entradas"
     },
     {
       "id": 4,
       "restaurantId": 1,
-      "description": "Missoshiru",
-      "price": "",
-      "imageUri": "8",
-      "category": ""
+      "description": "Taça de Sorvete",
+      "price": 5,
+      "imageUri": "https://st2.depositphotos.com/1692343/7372/i/950/depositphotos_73720041-stock-photo-homemade-organic-vanilla-ice-cream.jpg",
+      "category": "Sobremesas"
     },
     {
       "id": 5,
+      "restaurantId": 2,
+      "description": "Poke da Casa",
+      "price": 10,
+      "imageUri": "https://st3.depositphotos.com/1373322/16509/i/1600/depositphotos_165098996-stock-photo-raw-organic-ahi-tuna-poke.jpg",
+      "category": "Pokes"
+    },
+    {
+      "id": 6,
+      "restaurantId": 2,
+      "description": "Poke Especial",
+      "price": 15,
+      "imageUri": "https://st3.depositphotos.com/1003597/31732/i/1600/depositphotos_317323671-stock-photo-top-view-at-mediterranean-roasted.jpg",
+      "category": "Pokes"
+    },
+    {
+      "id": 7,
+      "restaurantId": 2,
+      "description": "Monte seu Poke",
+      "price": 5,
+      "imageUri": "https://st3.depositphotos.com/2075507/17794/i/1600/depositphotos_177949424-stock-photo-melon-feta-mint-healthy-salad.jpg",
+      "category": "Pokes"
+    },
+    {
+      "id": 8,
+      "restaurantId": 2,
+      "description": "Taça de Sorvete",
+      "price": 5,
+      "imageUri": "hhttps://st2.depositphotos.com/1027198/6723/i/950/depositphotos_67233699-stock-photo-chocolate-ice-cream-balls.jpg",
+      "category": "Sobremesas"
+    },
+    {
+      "id": 9,
+      "restaurantId": 2,
+      "description": "Refrigerantes",
+      "price": 5,
+      "imageUri": "https://st.depositphotos.com/1670531/3942/i/950/depositphotos_39420667-stock-photo-coca-cola-soda-cans.jpg",
+      "category": "Bebidas"
+    },
+    {
+      "id": 10,
       "restaurantId": 1,
-      "description": "Huramaki",
-      "price": "12",
-      "imageUri": "",
-      "category": ""
+      "description": "Refrigerantes",
+      "price": 5,
+      "imageUri": "https://st2.depositphotos.com/1024749/6005/i/950/depositphotos_60055815-stock-photo-aytos-bulgaria-december-11-2014.jpg",
+      "category": "Bebidas"
     }
   ]
 }
