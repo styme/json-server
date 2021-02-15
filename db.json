@@ -5,14 +5,16 @@
       "name": "Restaurante do Japonês",
       "address": "Rua do japonês, 123",
       "category": "Comida Japonesa",
-      "location":"São Paulo"
+      "location":"São Paulo",
+      "imageUri":"https://st.depositphotos.com/1042799/1690/i/950/depositphotos_16905015-stock-photo-sushi-roll.jpg"
     },
     {
       "id": 2,
       "name": "Restaurante do Havaino",
       "address": "Rua do Havaino, 789",
       "category": "Comida Havaina",
-      "location":"Rio de Janeiro"
+      "location":"Rio de Janeiro",
+      "imageUri":"https://st4.depositphotos.com/2208212/24294/i/1600/depositphotos_242945342-stock-photo-poke-bowl-traditional-hawaiian-raw.jpg"
     }
   ],
   "menu": [
